@@ -1,0 +1,17 @@
+---
+layout: page
+title: Media o projekcie
+permalink: /cyfrowa/
+---
+
+### Muzykologia cyfrowa
+
+Trwają ostatnie przygotowania do rozpoczęcia prac nad sporządzaniem na niespotykaną dotąd skalę cyfrowych edycji wszystkich dzieł Fryderyka Chopina.
+O niezwykłości działań prowadzonych w ramach projektu *Dziedzictwo Chopinowskie w otwartym dostępie* świadczą dwa aspekty.
+Po pierwsze, każdy utwór doczeka się kilku wersji cyfrowych, będących dokładnym odwzorowaniem konkretnego pierwodruku ze zbiorów Biblioteki - Fonoteki - Fototeki NIFC i Muzeum Fryderyka Chopina.
+Po drugie, edycje będą sporządzone w formacie Humdrum - w pełni cyfrowym języku zapisu muzycznego.
+Dzięki temu możliwe będzie nie tylko automatyczne porównanie różnic między wydaniami tej samej kompozycji, lecz także przeprowadzenie komputerowej analizy muzycznej i muzykologicznej.
+Dodatkowo dzięki rozwijanemu także dzięki BFF NIFC oprogramowaniu *Verovio* edycje w formie graficznej będzie można wyświetlać online na komputerach i urządzeniach mobilnych.
+
+![Schemat tworzenia i wyświetlania edycji](https://nifc.github.io/images/2018-03_JI_001.png?raw=true)
+
