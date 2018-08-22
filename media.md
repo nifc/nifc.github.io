@@ -19,7 +19,7 @@ permalink: /media/
 
 ### Rozmowa nt. projektu w programie „Jak to działa - Fundusze Europejskie”
 
-[Jak to działa? Fundusze Europejskie - Instytucje kulturalne](https://vod.tvp.pl/video/jak-to-dziala,fundusze-europejskie-instytucje-kulturalne,38473212)
+<a href="https://vod.tvp.pl/video/jak-to-dziala,fundusze-europejskie-instytucje-kulturalne,38473212" target="_blank">Jak to działa? Fundusze Europejskie - Instytucje kulturalne</a>
 
 ---
 
