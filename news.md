@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newsletter
+title: Aktualności
 permalink: /news/
 ---
 
