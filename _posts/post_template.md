@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newsletter mm/yyyy
+title: Aktualności mm/yyyy
 ---
 
 Wydanie z dnia {{ page.date | date: "%d-%m-%Y" }}
@@ -9,10 +9,4 @@ Wydanie z dnia {{ page.date | date: "%d-%m-%Y" }}
 
 ---
 
-## Nowości
 
-- Antykwariat
-- Książki
-- Czasopisma
-- Fototeka
-- Fonoteka
