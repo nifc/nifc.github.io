@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Media o projekcie
+title: Muzykologia cyfrowa
 permalink: /cyfrowa/
 ---
-
-### Muzykologia cyfrowa
 
 <img src="https://nifc.github.io/images/404.jpg?raw=true">
 
