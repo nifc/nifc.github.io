@@ -4,7 +4,7 @@ title: Media o projekcie
 permalink: /media/
 ---
 
-### Konferencja prasowa projektu, 2018-01-30
+### Konferencja prasowa projektu, 2018-01-30 - wybrane wzmianki w mediach polskich i zagranicznych
 
 - [dzieje.pl](https://dzieje.pl/kultura-i-sztuka/narodowy-instytut-fryderyka-chopina-digitalizuje-swoje-zbiory)
 - [Hürriyet Daily News](http://www.hurriyetdailynews.com/poland-to-post-chopin-collection-online-126579)
@@ -23,4 +23,14 @@ permalink: /media/
 
 ---
 
+### Rozmowa z kuratorem Muzeum Fryderyka Chopina Maciejem Janickim nt. projektu - Polskie Radio Program Drugi
 
+<a href="https://www.polskieradio.pl/8/410/Artykul/2011159,Dziedzictwo-Chopinowskie-Wielka-digitalizacja-spuscizny-geniusza" target="_blank">Rozmowa - Polskie Radio Program Drugi</a>
+
+---
+
+### Rozmowa z kierownikiem projektu, dr. Marcinem Konikiem nt. projektu - Polskie Radio Zagranica
+
+<a href="http://www.radiozagranica.pl/8/82/Artykul/347696,Dziedzictwo-Chopinowskie-w-otwartym-dostepie" target="_blank">Rozmowa - Polskie Radio Zagranica</a>
+
+---
