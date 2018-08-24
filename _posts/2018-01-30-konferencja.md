@@ -5,7 +5,7 @@ title: Aktualności 01/2018
 
 Wydanie z dnia {{ page.date | date: "%d-%m-%Y" }}
 
-## Informacje
+## Konferencja prasowa projektu „Dziedzictwo Chopinowskie”
 
 <img src="https://nifc.github.io/images/DSC_9352.JPG?raw=true" alt="Konferencja POPC">
 
