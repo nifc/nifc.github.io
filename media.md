@@ -40,3 +40,9 @@ permalink: /media/
 <a href="http://www.radiozagranica.pl/8/82/Artykul/347696,Dziedzictwo-Chopinowskie-w-otwartym-dostepie" target="_blank">Rozmowa - Polskie Radio Zagranica</a>
 
 ---
+
+##### *Tyle rzeczy za piórem zostaje* – Listy Fryderyka Chopina
+
+<a href="https://youtu.be/kfgrbOU_FiI" target="_blank">Digitalizacja listów Chopina</a>
+
+---
