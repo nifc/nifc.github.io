@@ -9,6 +9,5 @@ permalink: /about/
 ---
 
 - [dr Marcin Konik](mailto:mkonik@nifc.pl) kierownik projektu
-- [Dominik Kowalski](mailto:dkowalski@nifc.pl) pracownia digitalizacji
 - [Jacek Iwaszko](mailto:jiwaszko@nifc.pl) muzykologia cyfrowa
 
